@@ -4,7 +4,7 @@ A simple turn based game... Well actually it's not that simple. Got this inspira
 
 > - <em> [Seer](https://seerm.61.com/) </em>is... generally speaking, a copy version of <em>Pokemon</em>. The biggest difference is that this is a mmo game, which makes it easier for kids to play. It's still running nowadays, but the aethetic and design has totally changed, still of poor quality in graphic even comparied with <em>Pokemon</em> Gen9. I highly recommend <strong>NOT</strong> to play it.
 
-> - However, <em>[Seer II](http://seer2.cn/seer2/)</em> is quite different. Even though it's almost a dead game now, the server is still running...by the players. The game used to be ambitious, generated in 2013 but the design of battle system and aethetic is far from old-fashioned. Even today there are still some players stick on it. There is a long twisted story behind. click [here](#S2History) to know more if you're interested.
+> - However, <em>[Seer II](http://seer2.cn/seer2/)</em> is quite different. Even though it's almost a dead game now, the server is still running...by the players. The game used to be ambitious, generated in 2013 but the design of battle system and aethetic is far from old-fashioned. Even today there are still some players persist with it. There is a long twisted story behind. click [here](#S2History) to know more if you're interested.
 >> By the way, I've played pokemon Gen 6 and 7, but in the end spent more time on [Pokemon Showdown](https://pokemonshowdown.com/). 
 
 <h3>Intro</h3>
