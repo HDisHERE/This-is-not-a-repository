@@ -24,7 +24,7 @@ More stories are in my notes</p>
 
 But in detailed game mechanics they're totally different. 
  - The collection and cultivation would be easier. I know nowadays players would regard this part as tourture and prefer to skip. Only few spirits requires some luck to meet and capture, others are easy to get, or gifted as the story goes.
- - The story may not be so... suitable for kids. With different choices the tone of story could be totally different.
+ - The story may not be so... suitable for kids. With different choices the tone of story could be totally different. The content would be close to the true fairy tales.
  - Most enemy battles will be based on 6v6, rather than 1 on 1.
  - Battle logic would be kind of differnt. Each spirit would have 5 different skills in battle, four common changable and one ultra. There will be no power point limitation to use different skills. Instead there would be a rage system as main resource to use different skills. Generally the more powerful skills are, the higher is rage consume. To use ultra, you will consume all the rage.
  - Buff and debuff of the basicability level will remain in one battle, even if you switch the spirit. Mainwhile many spirits have the skill to eliminate your buffat once.
