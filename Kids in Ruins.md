@@ -15,3 +15,5 @@ The game would be a typical platform game.
 
  - In different levels you'll control different characters. They all share the same basic actions like run, jump and step on enemies to kill, but have minor difference in parameters. Someone may run faster and others could jumper higher, etc.
  - Besides, each character has a unique skill to interact with the world. For example the main character is Coffe Cup, who runs a bit faster and could jump further. He can carry some liquid in head, or float in air when head is empty. TV head just looks like the abandoned garbage, so when he crouches the enemy would ignore him, while he can't move in that situation. Sunflower could stick the root to the wall to get easier wall jump, and even walk on the roof upside down.
+ - As I mentioned, enemies are symbolic concept of adults.
+ - The game theme is simple: growth and self recognition. What do you think would be the real growing up? Take cigarettes? Drink alcohol? Or actually make some decisions and take resposibility? More details are in my notes.
