@@ -27,9 +27,9 @@ But in detailed game mechanics they're totally different.
  - The story may not be so... suitable for kids. With different choices the tone of story could be totally different. The content would be close to the true fairy tales.
  - Most enemy battles will be based on 6v6, rather than 1 on 1.
  - Battle logic would be kind of differnt. Each spirit would have 5 different skills in battle, four common changable and one ultra. There will be no power point limitation to use different skills. Instead there would be a rage system as main resource to use different skills. Generally the more powerful skills are, the higher is rage consume. To use ultra, you will consume all the rage.
- - Buff and debuff of the basicability level will remain in one battle, even if you switch the spirit. Mainwhile many spirits have the skill to eliminate your buffat once.
+ - Buff and debuff of the basic ability level will remain in one battle, even if you switch the spirit. Mainwhile many spirits have the skill to eliminate your buff in one turn.
  - Status condition would reset once you switch, to speed up the pace in battle.
- - Mark system is the main system in battle. Each spirit would have a series of unique marks to help them in battle. Some may be mild change to some data, like more damage to the skill or receive less damage. Others may change the game mechanic, like gain more rage/ put the spirit to undead status. Every spirit would have different marks.
+ - Mark system is the main system in battle. Each spirit would have a series of unique marks to help them in battle. Some may be mild change to some data, like more damage to the skill or receive less damage. Others may change the game mechanic, like gain more rage/ put the spirit to undead status. Every spirit would have unique marks.
  - The design of spirits would be more detailed. Each spirit would have a unique property to change the basic data.
  - Maybe I'll design an online PVP function if time is not limited
  - Talk to me if you want to know more about the outline of the story.
