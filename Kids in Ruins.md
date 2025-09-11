@@ -12,4 +12,6 @@ A good visual style to convey the twisted mind between children and adults. Besi
 
 <h3>Game Structure</h3>
 The game would be a typical platform game.  
- - The health calculation is not decided yet. I’m still hesitating between the traditional health bar like Street Fighter and Super Smash
+ - In different levels you'll control different characters. They all share the same basic actions like run, jump and step on enemies to kill, but have minor difference in parameters. Someone may run faster and others could jumper higher, etc.
+ - Besides, each character has a unique skill to interact with the world. For example the main character is Coffe Cup, who runs a bit faster and could jump further. He can carry some liquid in head, or float in air when head is empty. TV head just looks like the abandoned garbage, so when he crouches the enemy would ignore him, while he can't move in that situation. Sunflower could stick the root to the wall to get easier wall jump, and even walk on the roof upside down.
+ - 
