@@ -16,7 +16,8 @@ In the game, you'll play as the chosen hero, who has the power to bond, collabor
 More stories are in my notes</p>
 
 <h3>Game Structure</h3>
-<em>Soul bond</em> would be a turn based battle rpg. In most aspects it derives from <em>Pokemon</em>. 
+<em>Soul bond</em> would be a turn based battle rpg. In most aspects it derives from <em>Pokemon</em>. I primarily decided to devide the whole story into three different games. Now let's just focus on the first one. 
+
  - The game contains different environment and dynamic ecosystem, from ground to air.
  - The whole journey is full of different battles. Enjoy the progression of all the spirits you get.
  - Remember you control a team rather than a single character. Use different builds and match up to overcome different battles.
